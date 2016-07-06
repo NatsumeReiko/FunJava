@@ -38,6 +38,17 @@
 
         </activity>
 
+        <activity
+            android:name=".SetClassLabActivity"
+            android:label="SetClassLabActivity">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="FUN_JAVA" />
+            </intent-filter>
+
+        </activity>
+
     </application>
 
 </manifest>
