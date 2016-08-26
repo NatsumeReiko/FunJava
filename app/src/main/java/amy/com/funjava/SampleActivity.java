@@ -71,6 +71,12 @@ public class SampleActivity extends AppCompatActivity {
     public void onClickedButton_A(View view) {
     }
 
-    public void onClickedButton(View view) {
+    public void onClickedButton_B(View view) {
+    }
+    public void onClickedButton_C(View view) {
+    }
+    public void onClickedButton_D(View view) {
+    }
+    public void onClickedButton_E(View view) {
     }
 }

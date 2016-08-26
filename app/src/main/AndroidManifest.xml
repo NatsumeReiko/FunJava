@@ -49,6 +49,48 @@
 
         </activity>
 
+        <activity
+            android:name=".MultiThreadActivity001"
+            android:label="MultiThreadActivity001">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="FUN_JAVA" />
+            </intent-filter>
+
+        </activity>
+
+        <activity
+            android:name=".JavaReflection"
+            android:label="JavaReflection">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="FUN_JAVA" />
+            </intent-filter>
+
+        </activity>
+
+        <activity
+            android:name=".VolatileLab"
+            android:label="Volatile">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="FUN_JAVA" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".VolatileLab_object"
+            android:label="VolatileLab_object">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="FUN_JAVA" />
+            </intent-filter>
+        </activity>
+
     </application>
 
 </manifest>
